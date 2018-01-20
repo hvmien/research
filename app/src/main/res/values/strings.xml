@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Research</string>
+    <string name="title_loading"><![CDATA[S&Value]]></string>
+    <string name="dev"><![CDATA[D&M © Copyright]]></string>
 </resources>
